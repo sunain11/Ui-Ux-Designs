@@ -1,6 +1,5 @@
 List of Android UI/UX Libraries
 ==================
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wasabeef/awesome-android-ui)
 
 A curated list of awesome Android UI/UX libraries.
 
@@ -9,8 +8,7 @@ A curated list of awesome Android UI/UX libraries.
 - _Looking for iOS? Check out_ [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 
 ## Maintainers
-[![wasabeef](https://avatars0.githubusercontent.com/u/1833474?v=3&s=32) wasabeef](https://github.com/wasabeef)  
-[![ogaclejapan](https://avatars0.githubusercontent.com/u/1496485?v=3&s=32) ogaclejapan](https://github.com/ogaclejapan)
+[![Sunain Mittal](https://avatars3.githubusercontent.com/u/32884559?s=460&v=4) Sunain](https://github.com/sunain11)
 
 ## Index `(light-weight pages)`
 * [Material](pages/Material.md)
